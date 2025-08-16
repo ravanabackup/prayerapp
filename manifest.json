@@ -1,0 +1,21 @@
+{
+  "name": "Prayer RSS Feed",
+  "short_name": "Prayer Feed",
+  "description": "A PWA for real-time prayer RSS feeds with notifications.",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#0a0a0f",
+  "theme_color": "#00ff88",
+  "icons": [
+    {
+      "src": "/path/to/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/path/to/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
